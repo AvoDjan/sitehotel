@@ -1,0 +1,211 @@
+/* GENERAL */
+
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.wrapper
+{
+    width: 60rem;
+    margin: 0 auto;
+    padding: 0 1rem;
+    background-color: rgba(255, 0, 0, 0.116);
+}
+
+body
+{
+    font-size: 1rem;
+    font-family: 'barlow condensed', Arial, sans-serif;
+}
+
+
+
+
+
+/* HEADER */
+
+header
+{
+    background-color: rgba(0, 0, 255, 0.185);
+    padding: 1rem;
+}
+
+
+nav img
+{
+    height: 5.5rem;
+    float:left;
+}
+
+header nav
+{
+    background-color:rgba(255, 0, 43, 0.404);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1
+{
+    margin-top: 3.2rem;
+    background-color: greenyellow;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-family: 'barlow condensed', Arial, sans-serif;
+    position: relative;
+    right: 4.8rem;
+}
+
+header nav ul
+{
+    display: flex;
+    background-color: rgba(0, 128, 0, 0.123);
+    margin-top: 4rem;
+}
+
+header nav ul li
+{
+    margin-left: 1rem;
+}
+
+header nav ul li a
+{
+    background-color: rgba(222, 184, 135, 0.123);
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: 'Baloo 2', Arial, sans-serif;
+}
+
+
+
+
+/* SECTION RESIDENCE */
+
+
+
+
+/* SCRIPT SLIDESHOW */
+
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+  margin: 1rem auto auto;
+}
+
+.slideshow-container img
+{
+    width: 10rem;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+
+
+/* FIN SCRIPT SLIDESHOW */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SECTION CHAMBRES */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SECTION RESTAURANT */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SECTION RESERVATION */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SECTION CONTACT */
